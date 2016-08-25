@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/mycampaign-tab</path>
+    <page_callback>CRM_Campaigntab_Page_CampaignTab</page_callback>
+    <title>CampaignTab</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
